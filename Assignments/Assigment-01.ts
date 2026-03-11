@@ -66,3 +66,30 @@ let assignment:Assigment01={
     distance: 180
 }
 console.log(assignment);
+
+let assignment1:Assigment01 = {
+    degreesCelsius: 25,
+    order: false,
+    phoneNUmber: "987-654-3210",
+    bankAccount: 500.00,
+    email: "ytfguih",
+    coordinates: [40.7128, -74.0060],
+    maritalStatus: true,
+    occupation: "Data Scientist",
+    favouriteColour: "Green",
+    currentYear: today.getFullYear(),
+    followers: 1000000,
+    movieRating: 7.5,
+    bloodType: 'A',
+    bookTitle: "To Kill a Mockingbird",
+    employeeCount: 500,
+    eventTime: "2:30 PM",
+    country: "United States",
+    eyeColor: "Brown",
+    birthplace: "New York City",
+    distance: 200.5
+}
+console.log(assignment1);
+
+let obul:(number|string)[]=["obul","reddy","obulreddy",123,456,7890];
+console.log(obul);
