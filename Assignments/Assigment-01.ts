@@ -93,3 +93,4 @@ console.log(assignment1);
 
 let obul:(number|string)[]=["obul","reddy","obulreddy",123,456,7890];
 console.log(obul);
+
